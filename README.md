@@ -40,18 +40,20 @@ A marketing content analysis tool powered by Claude AI for social media managers
 
 ```bash 
 pip3 install anthropic requests
+```
+### Configuration
 
-Configuration
+- Sign up for Anthropic API at https://console.anthropic.com
+- Replace api_key = "your_api_key_here" with your actual API key
+- Run: python3 content_analyzer.py
 
-Sign up for Anthropic API at https://console.anthropic.com
-Replace api_key = "your_api_key_here" with your actual API key
-Run: python3 content_analyzer.py
-
-Professional Applications
+## Professional Applications
 This tool demonstrates practical AI integration for marketing workflows, combining technical implementation with industry-specific knowledge to deliver actionable copywriting insights.
 
-Built by Victor Alagbe - Supercharging marketing strategy with AI
+---
 
-### Why?
+### Built by: Victor Alagbe
 
-I am a content marketing professional with 12 years of experience in the emerging technologies; most recently in Web3. With the explosion of AI solutions for marketing professional, I have observed that most tools provided generic results that don't offer much value to marketers worthy of the name or recommendations that could be logged under the "AI slop" category. This is an attempt to leverage my domain expertise from a Bachelor's degree in Lingistics and an Msc in Marketing Communications plus more than a decade-worth of hands-on experience to create AI-powered tools that actually get the job done for marketers.
+#### Why?
+
+I am a content marketing professional with 12 years of experience in emerging technologies, most recently in Web3. With the explosion of AI solutions for marketing professionals, I have observed that most tools provide generic results that don't offer much value to marketers worthy of the name or recommendations that could be logged under the "AI slop" category. This is an attempt to leverage my domain expertise from a Bachelor's degree in Linguistics and an MSc in Marketing Communications, plus more than a decade's worth of hands-on experience to create AI-powered tools that actually get the job done for marketers.
