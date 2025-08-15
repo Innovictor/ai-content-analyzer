@@ -25,10 +25,10 @@ A marketing content analysis tool powered by Claude AI for social media managers
 - **Modular Design**: Easily extensible for additional platforms and metrics
 
 ## Sample Analysis Output
-SENTIMENT: 8/10. Upbeat, exciting tone well-suited for product announcements
-BRAND TONE: Aligns with web3 startup - casual, conversational with relevant terminology
-TWITTER EFFECTIVENESS: Concise, visually engaging, highlights key value propositions
-ACTIONABLE IMPROVEMENTS: Add clear CTA and experiment with video formats
+- SENTIMENT: 8/10. Upbeat, exciting tone well-suited for product announcements
+- BRAND TONE: Aligns with web3 startup - casual, conversational with relevant terminology
+- TWITTER EFFECTIVENESS: Concise, visually engaging, highlights key value propositions
+- ACTIONABLE IMPROVEMENTS: Add clear CTA and experiment with video formats
 
 ## Requirements
 
